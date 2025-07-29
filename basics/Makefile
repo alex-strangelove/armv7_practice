@@ -16,3 +16,5 @@ all: $(TARGETS)
 
 clean:
 	rm -f $(OBJS) $(TARGETS)
+
+.PHONY: all clean

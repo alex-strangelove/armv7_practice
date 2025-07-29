@@ -1,0 +1,8 @@
+# Ignore object files
+*.o
+
+# Ignore executables in the basics directory
+/basics/*
+!/basics/Makefile
+!/basics/README.MD
+!/basics/*.s

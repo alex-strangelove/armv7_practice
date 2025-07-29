@@ -8,3 +8,4 @@ _start:
 func:
     // This is where your code starts running when judging.
     // Write a function here.
+    bx lr
